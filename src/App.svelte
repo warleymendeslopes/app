@@ -25,7 +25,7 @@
 <style>
 	.banner-inicial {
 		width: 100%;
-		height: 200px;
+		height: 55vh;
 		background: red;
 		padding: 1px;
 		background-image: url(/images/banners/banner1.webp);
