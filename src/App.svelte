@@ -3,10 +3,29 @@
 </script>
 
 <main>
+	<section class="banner-inicial">
+		<img
+			src="images/banners/banner1.webp"
+			alt="Banner com o nome e logo do restaurante contratante"
+		/>
+		<h1>cardapio de  {name}!</h1>
+
+
+	</section>
 	<h1>Hello {name}!</h1>
-	<p>This is a starter template for a Svelte PWA, based in the <a href="https://github.com/sveltejs/template" target="_blank">Svelte template</a></p>
-	<p>You will find the manifest.json file and the service-worker.js file in the public folder</p>
-	<p>To update the proper icons for the PWA check <i>/public/images/icons</i></p>
+	<p>
+		This is a starter template for a Svelte PWA, based in the <a
+			href="https://github.com/sveltejs/template"
+			target="_blank">Svelte template</a
+		>
+	</p>
+	<p>
+		You will find the manifest.json file and the service-worker.js file in
+		the public folder
+	</p>
+	<p>
+		To update the proper icons for the PWA check <i>/public/images/icons</i>
+	</p>
 </main>
 
 <style>
@@ -15,6 +34,11 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+	}
+	section.banner-inicial {
+		position: absolute;
+		top: 0;
+		left: 0;
 	}
 
 	h1 {
