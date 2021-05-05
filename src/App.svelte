@@ -1,5 +1,5 @@
 <script>
-	export let name;
+	//export let name;
 </script>
 
 <main>
@@ -107,12 +107,13 @@
 <style>
 	.banner-inicial {
 		width: 100%;
-		height: 37vh;
+		height: 96vh;
 		background: red;
 		padding: 1px;
 		background-image: url(/images/banners/banner1.webp);
-		background-size: 100%;
-		background-position: 0% 99%;
+		background-size: 100% 39%;
+		background-position: 0% 101%;
+		background-repeat: no-repeat;
 	}
 	div.cardapio {
 		position: relative;
