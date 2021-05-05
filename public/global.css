@@ -17,10 +17,8 @@ body {
 
 body>main {
     width: 100%;
-    height: 100%;
     margin: 0 auto;
     max-width: 425px;
-    max-height: 800px;
     background: #06706a;
     color: #eef1f3;
     user-select: none;
