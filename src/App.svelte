@@ -2,9 +2,13 @@
 	//export let name;
 </script>
 
-<iframe src="http://novo-site.grupoprominas.com.br/" title="description">
+<iframe src="https://www.youtube.com" title="description">
 </iframe>
 
 <style>
+iframe {
+    width: 100%;
+    height: 100vh;
+}
 	
 </style>
