@@ -2,7 +2,7 @@
 	//export let name;
 </script>
 
-<iframe src="https://www.youtube.com" title="description">
+<iframe src="https://www.faculdadeunica.com.br" title="description">
 </iframe>
 
 <style>
